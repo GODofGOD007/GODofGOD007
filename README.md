@@ -110,9 +110,9 @@ Here are some ideas to get you started:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Kartikey2011yadav"> 
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kartikey2011yadav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kartikey2011yadav&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/aditya-githb"> 
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-githb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-githb&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey2011yadav&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true" />
   </a>    
 </p>
@@ -129,7 +129,7 @@ Here are some ideas to get you started:
 <!--[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)-->
 <!--[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)-->
 <br><br>
-<!--[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />](https://stackoverflow.com/users/11452026/avinash?tab=profile)-->
+<!--[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />]-->(https://stackoverflow.com/users/11452026/avinash?tab=profile)-->
 <!--[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)-->
 <br><br>
 <!--[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://avinash-218.hashnode.dev/)-->
