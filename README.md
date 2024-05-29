@@ -1,6 +1,4 @@
 <!--
-**Kartikey2011yadav/Kartikey2011yadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -37,7 +35,7 @@ Here are some ideas to get you started:
       </blockquote>
        <ul>
         <!-- <li>🎓 &nbsp; B.Sc of Electrical Engineering at <a href="https://ut.ac.ir/en">UT</a></li> -->
-        <li>📚 &nbsp; Studying B.Sc IT (Cyber Security) at <a href="https://ut.ac.ir/en">UT</a></li> 
+        <li>📚 &nbsp; Studying B.Sc IT (Cyber Security) at <a href="https://makautwb.ac.in">MAKAUT</a></li> 
         <!-- <li>👩‍💻 &nbsp; Junior Java Back-end Developer </li> -->
         <!-- <li>👩‍💻 &nbsp; Flutter Developer </li> -->
         <li>🤔 &nbsp; Interested in Ethical Hacking and Cyber Security</li>
@@ -47,7 +45,7 @@ Here are some ideas to get you started:
     <td>
      <p align="center">
       <a href="https://github.com/aditya-githb">
-       <img src="Images/about.svg" width="100%"/>
+       <img src="[Images/about.svg](https://img.freepik.com/free-vector/cute-hacker-operating-laptop-cartoon-vector-icon-illustration-people-technology-icon-isolated-flat_138676-8330.jpg?t=st=1717010620~exp=1717014220~hmac=5b7ab7235aafde312f4ec253dea2d7e7077b4a7e1d900726b13d9815105c740c&w=740)" width="100%"/>
       </a>
      </p>
     </td>
