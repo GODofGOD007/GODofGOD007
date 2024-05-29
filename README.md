@@ -113,28 +113,10 @@ Here are some ideas to get you started:
   <a href="https://github.com/aditya-githb"> 
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aditya-githb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aditya-githb&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartikey2011yadav&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-githb&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true" />
   </a>    
 </p>
 
-  
-  ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px"> Social
-  <img src ="Images/social_dashboard.svg" align = "left" width = 50%>
-<div>
-  
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/aditya-kumar-shaw-02b534277/)
-[<img align="top" alt="LinkedIn" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://www.linkedin.com/in/aditya-kumar-shaw-02b534277/)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-<br><br>
-<!--[<img align="top" alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/ravinash218)-->
-<!--[<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_ravinash/)-->
-<br><br>
-<!--[<img align="top" alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />]-->(https://stackoverflow.com/users/11452026/avinash?tab=profile)-->
-<!--[<img align="top" alt="Dev" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />](https://dev.to/avinash218)-->
-<br><br>
-<!--[<img align="top" alt="Medium" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />](https://avinash-218.hashnode.dev/)-->
-<br><br>
-</div>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
