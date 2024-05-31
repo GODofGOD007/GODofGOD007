@@ -26,8 +26,6 @@ Here are some ideas to get you started:
         <p> 
           I majored in Information technology (Cyber Security)
           <br>
-          and my research is focused on edge-caching in IoT networks. 
-          <br>
           Currently, learning python, and here I share my hands-on  
           <br>
           and course project repositories.
